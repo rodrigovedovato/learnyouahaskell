@@ -1,3 +1,3 @@
-# Learn You a Haskell for Great Good - Exercises
+# Learn You a Haskell for Great Good
 
-This repository contains the exercises from [Learn You a Haskell for Great Good](http://learnyouahaskell.com/)
+Este repositório contém exercícios e notas relacionados aos tópicos do livro [Learn You a Haskell for Great Good](http://learnyouahaskell.com/)
